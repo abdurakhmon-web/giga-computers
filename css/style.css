@@ -104,7 +104,7 @@ header .navbar .container-fluid .collapse .navbar-nav .nav-item .nav-link:hover:
     margin: auto;
 }
 
-.catalog-head-search {
+.catalog-search input {
     width: 270px;
     margin-left: 80px;
     padding: 10px 10px;
